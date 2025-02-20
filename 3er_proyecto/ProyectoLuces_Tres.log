@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo8 -N"E:\ITSO\PLAN-MATERIAL_ROD\smp-300\PROGRAMAS\3er_proyecto\ProyectoLuces_Tres.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\ITSO\PLAN-MATERIAL_ROD\smp-300\PROGRAMAS\3er_proyecto\" -SP"E:\ITSO\PLAN-MATERIAL_ROD\smp-300\PROGRAMAS\3er\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "_3er.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	_3er.c
+diagnostics: 24	123	Compiled Successfully	_3er.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 12 (1%)  Free RAM (bytes): 2015 (99%)	Used RAM (bytes): 12 (1%)  Free RAM (bytes): 2015 (99%)
+hint: 0	1144	Used ROM (bytes): 238 (1%)  Free ROM (bytes): 32530 (99%)	Used ROM (bytes): 238 (1%)  Free ROM (bytes): 32530 (99%)
+diagnostics: 0	125	Project Linked Successfully	ProyectoLuces_Tres.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'ProyectoLuces_Tres.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 20 feb. 2025, 18:17:17	ProyectoLuces_Tres.mcppi
