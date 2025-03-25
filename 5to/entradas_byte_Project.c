@@ -4,6 +4,8 @@ void main() {
      while(1){
           if(portd=0){
                portb=0;
+          }else if(portd=2){
+               portb=17;
           }else{
                portb=255;
           }
