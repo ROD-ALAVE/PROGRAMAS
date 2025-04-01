@@ -4,10 +4,16 @@ void main() {
      while(1){
           if(portd=0){
                portb=0;
-          }else if(portd=2){
-               portb=17;
+          }else if(portd==1){
+               portb=1;
+          }else if(portd==2){
+               portb=2;
+          }else if(portd==3){
+               portb=3;
+          }else if(portd==4){
+               portb=4;
           }else{
-               portb=255;
+               portb=254;
           }
           delay_ms(700);
      }
